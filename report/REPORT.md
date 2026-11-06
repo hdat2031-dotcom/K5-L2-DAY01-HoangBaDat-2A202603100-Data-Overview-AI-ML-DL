@@ -1,4 +1,4 @@
-Day 1 Lab Report – Data Overview AI/ML/DL
+# Day 1 Lab Report – Data Overview AI/ML/DL
 
 ## Environment
 - **Run date:** 2026-11-07
@@ -86,8 +86,7 @@ A bounding box locates an object approximately, while a segmentation mask repres
 - Over-segmentation: the dining table mask leaks into the floor and nearby objects.
 
 ### Annotation guideline
-Draw masks along the visible boundaries of individual objects. Do not include background areas or neighboring objects. For overlapping objects, annotate only visible regions unless the project guideline specifies otherwise.
-Escalate unclear object categories and heavily occluded objects that cannot be identified reliably.
+Draw masks along the visible boundaries of individual objects. Do not include background areas or neighboring objects. For overlapping objects, annotate only visible regions unless the project guideline specifies otherwise. Escalate unclear object categories and heavily occluded objects that cannot be identified reliably.
 
 ---
 
