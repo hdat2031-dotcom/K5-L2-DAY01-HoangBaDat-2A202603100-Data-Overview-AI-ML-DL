@@ -11,7 +11,7 @@
 - Detection checkpoint: `yolo11n.pt`
 - Segmentation checkpoint: `yolo11n-seg.pt`
 - Confidence threshold: 0.35
-- Changes from source notebook: [Confirm whether any changes were made]
+- Changes from source notebook: No changes to the original notebook workflow.
 
 ## 1. Image Classification
 
